@@ -1,0 +1,14 @@
+.links > a {
+  border-radius: 40px !important;
+}
+.links > a > h3 {
+  font-weight: 700 !important;
+}
+
+.btn-1 {
+  background-color: antiquewhite !important;
+  text-align: center;
+}
+.text-1 > h3 {
+  color: #333333 !important;
+}

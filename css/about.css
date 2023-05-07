@@ -1,0 +1,19 @@
+.team {
+  background-color: #e6e6e6 !important;
+}
+
+.about {
+  font-size: 50px !important;
+  font-weight: 700 !important;
+} /*# sourceMappingURL=about.css.map */
+
+.card-body {
+  background-color: rgb(144, 85, 85) !important;
+  border-radius: 0px 0px 10px 10px !important;
+}
+
+@media (max-width: 575.98px) {
+  .heading-section > h2 {
+    font-size: 30px !important;
+  }
+}
